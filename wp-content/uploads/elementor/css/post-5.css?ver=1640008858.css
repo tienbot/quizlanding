@@ -1,0 +1,239 @@
+.elementor-kit-5{--e-global-color-primary:#FFFFFF;--e-global-color-secondary:#54595F;--e-global-color-text:#FFFFFF;--e-global-color-accent:#1E4FC6E5;--e-global-typography-primary-font-family:"Neue Machina";--e-global-typography-primary-font-weight:600;--e-global-typography-primary-text-transform:uppercase;--e-global-typography-text-font-family:"HelveticaNeueCyr";--e-global-typography-text-font-weight:400;--e-global-typography-text-text-transform:uppercase;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.elementor-widget:not(:last-child){margin-bottom:20px;}{}h1.entry-title{display:var(--page-title-display);}.site-header{padding-right:0px;padding-left:0px;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Neue Machina';
+	font-style: normal;
+	font-weight: 900;
+	font-display: auto;
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/NeueMachina-Black.eot');
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/NeueMachina-Black.eot?#iefix') format('embedded-opentype'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/NeueMachina-Black.woff2') format('woff2'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/NeueMachina-Black.woff') format('woff'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/NeueMachina-Black.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Neue Machina';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/NeueMachina-Bold.eot');
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/NeueMachina-Bold.eot?#iefix') format('embedded-opentype'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/NeueMachina-Bold.woff2') format('woff2'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/NeueMachina-Bold.woff') format('woff'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/NeueMachina-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Neue Machina';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/NeueMachina-Light.eot');
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/NeueMachina-Light.eot?#iefix') format('embedded-opentype'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/NeueMachina-Light.woff2') format('woff2'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/NeueMachina-Light.woff') format('woff'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/NeueMachina-Light.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Neue Machina';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/NeueMachina-Medium.eot');
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/NeueMachina-Medium.eot?#iefix') format('embedded-opentype'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/NeueMachina-Medium.woff2') format('woff2'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/NeueMachina-Medium.woff') format('woff'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/NeueMachina-Medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Neue Machina';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/NeueMachina-Regular.eot');
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/NeueMachina-Regular.eot?#iefix') format('embedded-opentype'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/NeueMachina-Regular.woff2') format('woff2'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/NeueMachina-Regular.woff') format('woff'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/NeueMachina-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Neue Machina';
+	font-style: normal;
+	font-weight: 800;
+	font-display: auto;
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/NeueMachina-Ultrabold.eot');
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/NeueMachina-Ultrabold.eot?#iefix') format('embedded-opentype'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/NeueMachina-Ultrabold.woff2') format('woff2'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/NeueMachina-Ultrabold.woff') format('woff'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/NeueMachina-Ultrabold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Neue Machina';
+	font-style: normal;
+	font-weight: 200;
+	font-display: auto;
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/NeueMachina-Ultralight.ttf');
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/NeueMachina-Ultralight.ttf?#iefix') format('embedded-opentype'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/NeueMachina-Ultralight.woff2') format('woff2'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/NeueMachina-Ultralight.woff') format('woff'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/NeueMachina-Ultralight.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'HelveticaNeueCyr';
+	font-style: normal;
+	font-weight: 900;
+	font-display: auto;
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-Black.eot');
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-Black.eot?#iefix') format('embedded-opentype'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-Black.woff') format('woff'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-Black.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'HelveticaNeueCyr';
+	font-style: italic;
+	font-weight: 900;
+	font-display: auto;
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-BlackItalic.eot');
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-BlackItalic.eot?#iefix') format('embedded-opentype'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-BlackItalic.woff') format('woff'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-BlackItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'HelveticaNeueCyr';
+	font-style: normal;
+	font-weight: 900;
+	font-display: auto;
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-Heavy.eot');
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-Heavy.eot?#iefix') format('embedded-opentype'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-Heavy.woff') format('woff'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-Heavy.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'HelveticaNeueCyr';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-Bold.eot');
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-Bold.eot?#iefix') format('embedded-opentype'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-Bold.woff') format('woff'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'HelveticaNeueCyr';
+	font-style: italic;
+	font-weight: bold;
+	font-display: auto;
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-BoldItalic.eot');
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-BoldItalic.eot?#iefix') format('embedded-opentype'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-BoldItalic.woff') format('woff'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-BoldItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'HelveticaNeueCyr';
+	font-style: italic;
+	font-weight: 900;
+	font-display: auto;
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-HeavyItalic.eot');
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-HeavyItalic.eot?#iefix') format('embedded-opentype'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-HeavyItalic.woff') format('woff'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-HeavyItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'HelveticaNeueCyr';
+	font-style: italic;
+	font-weight: 500;
+	font-display: auto;
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-Italic.eot');
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-Italic.eot?#iefix') format('embedded-opentype'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-Italic.woff') format('woff'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-Italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'HelveticaNeueCyr';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-Medium.eot');
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-Medium.eot?#iefix') format('embedded-opentype'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-Medium.woff') format('woff'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-Medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'HelveticaNeueCyr';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-Light.eot');
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-Light.eot?#iefix') format('embedded-opentype'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-Light.woff') format('woff'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-Light.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'HelveticaNeueCyr';
+	font-style: italic;
+	font-weight: 300;
+	font-display: auto;
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-LightItalic.eot');
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-LightItalic.eot?#iefix') format('embedded-opentype'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-LightItalic.woff') format('woff'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-LightItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'HelveticaNeueCyr';
+	font-style: italic;
+	font-weight: 500;
+	font-display: auto;
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-MediumItalic.eot');
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-MediumItalic.eot?#iefix') format('embedded-opentype'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-MediumItalic.woff') format('woff'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-MediumItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'HelveticaNeueCyr';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-Roman.eot');
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-Roman.eot?#iefix') format('embedded-opentype'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-Roman.woff') format('woff'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-Roman.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'HelveticaNeueCyr';
+	font-style: normal;
+	font-weight: 100;
+	font-display: auto;
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-Thin.eot');
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-Thin.eot?#iefix') format('embedded-opentype'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-Thin.woff') format('woff'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-Thin.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'HelveticaNeueCyr';
+	font-style: italic;
+	font-weight: 100;
+	font-display: auto;
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-ThinItalic.eot');
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-ThinItalic.eot?#iefix') format('embedded-opentype'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-ThinItalic.woff') format('woff'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-ThinItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'HelveticaNeueCyr';
+	font-style: normal;
+	font-weight: 200;
+	font-display: auto;
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-UltraLight.eot');
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-UltraLight.eot?#iefix') format('embedded-opentype'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-UltraLight.woff') format('woff'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-UltraLight.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'HelveticaNeueCyr';
+	font-style: italic;
+	font-weight: 200;
+	font-display: auto;
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-UltraLightItalic.eot');
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-UltraLightItalic.eot?#iefix') format('embedded-opentype'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-UltraLightItalic.woff') format('woff'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/11/HelveticaNeueCyr-UltraLightItalic.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */

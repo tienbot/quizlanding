@@ -1,0 +1,28 @@
+.elementor-1185 .elementor-element.elementor-element-11bd9a2 > .elementor-background-overlay{opacity:0.5;}.elementor-1185 .elementor-element.elementor-element-11bd9a2{margin-top:0px;margin-bottom:0px;padding:0px 0px 0px 0px;}.elementor-1185 .elementor-element.elementor-element-ef150ed{text-align:left;}.elementor-1185 .elementor-element.elementor-element-ef150ed img{width:60%;}.elementor-1185 .elementor-element.elementor-element-416768f .elementor-nav-menu .elementor-item{font-family:"Archive", Sans-serif;font-size:20px;font-weight:normal;text-transform:uppercase;}.elementor-1185 .elementor-element.elementor-element-416768f .elementor-nav-menu--main .elementor-item{color:#FFFFFF;fill:#FFFFFF;}.elementor-1185 .elementor-element.elementor-element-416768f .elementor-nav-menu--main .elementor-item:hover,
+					.elementor-1185 .elementor-element.elementor-element-416768f .elementor-nav-menu--main .elementor-item.elementor-item-active,
+					.elementor-1185 .elementor-element.elementor-element-416768f .elementor-nav-menu--main .elementor-item.highlighted,
+					.elementor-1185 .elementor-element.elementor-element-416768f .elementor-nav-menu--main .elementor-item:focus{color:#C15DFF;fill:#C15DFF;}.elementor-1185 .elementor-element.elementor-element-416768f .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:before,
+					.elementor-1185 .elementor-element.elementor-element-416768f .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:after{background-color:#1E4FC600;}.elementor-1185 .elementor-element.elementor-element-416768f .e--pointer-framed .elementor-item:before,
+					.elementor-1185 .elementor-element.elementor-element-416768f .e--pointer-framed .elementor-item:after{border-color:#1E4FC600;}.elementor-1185 .elementor-element.elementor-element-416768f .elementor-nav-menu--dropdown a, .elementor-1185 .elementor-element.elementor-element-416768f .elementor-menu-toggle{color:#FFFFFF;}.elementor-1185 .elementor-element.elementor-element-416768f .elementor-nav-menu--dropdown{background-color:#FFFFFF00;}.elementor-1185 .elementor-element.elementor-element-416768f .elementor-nav-menu--dropdown a:hover,
+					.elementor-1185 .elementor-element.elementor-element-416768f .elementor-nav-menu--dropdown a.elementor-item-active,
+					.elementor-1185 .elementor-element.elementor-element-416768f .elementor-nav-menu--dropdown a.highlighted,
+					.elementor-1185 .elementor-element.elementor-element-416768f .elementor-menu-toggle:hover{color:#C15DFF;}.elementor-1185 .elementor-element.elementor-element-416768f .elementor-nav-menu--dropdown a:hover,
+					.elementor-1185 .elementor-element.elementor-element-416768f .elementor-nav-menu--dropdown a.elementor-item-active,
+					.elementor-1185 .elementor-element.elementor-element-416768f .elementor-nav-menu--dropdown a.highlighted{background-color:#133BB700;}.elementor-1185 .elementor-element.elementor-element-2cc1f68 .elementor-spacer-inner{height:50px;}.elementor-1185 .elementor-element.elementor-element-a72fa99{text-align:left;color:#A412FF;font-family:"Archive", Sans-serif;font-size:25px;font-weight:normal;text-transform:uppercase;}.elementor-1185 .elementor-element.elementor-element-a72fa99 > .elementor-widget-container{margin:0px 0px 0px 20px;}.elementor-1185 .elementor-element.elementor-element-d95cb57{--grid-template-columns:repeat(0, auto);--icon-size:30px;--grid-column-gap:5px;--grid-row-gap:0px;}.elementor-1185 .elementor-element.elementor-element-d95cb57 .elementor-widget-container{text-align:left;}.elementor-1185 .elementor-element.elementor-element-d95cb57 .elementor-social-icon{background-color:#FFFFFF00;--icon-padding:0.3em;}.elementor-1185 .elementor-element.elementor-element-d95cb57 .elementor-social-icon:hover{background-color:#C15DFF;}.elementor-1185 .elementor-element.elementor-element-d95cb57 > .elementor-widget-container{margin:0px 0px 0px 20px;}#elementor-popup-modal-1185 .dialog-message{width:366px;height:100vh;align-items:center;}#elementor-popup-modal-1185{justify-content:flex-end;align-items:center;pointer-events:all;background-color:#00000000;}#elementor-popup-modal-1185 .dialog-close-button{display:block;font-size:27px;}#elementor-popup-modal-1185 .dialog-widget-content{animation-duration:0.7s;background-color:transparent;background-image:linear-gradient(180deg, #010F68F0 0%, #7B29F2 100%);box-shadow:2px 8px 23px 3px rgba(0,0,0,0.2);}#elementor-popup-modal-1185 .dialog-close-button i{color:#FFFFFF;}#elementor-popup-modal-1185 .dialog-close-button:hover i{color:#C15DFF;}@media(max-width:1024px){.elementor-1185 .elementor-element.elementor-element-2cc1f68 .elementor-spacer-inner{height:50px;}}@media(max-width:767px){#elementor-popup-modal-1185 .dialog-message{width:299px;}}/* Start custom CSS for text-editor, class: .elementor-element-a72fa99 */.phone {
+    color: #fff;
+}
+
+.phone:hover{
+    color: #C15DFF;
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Archive';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/12/Archive.eot');
+	src: url('https://ru.quizlanding.de/wp-content/uploads/2021/12/Archive.eot?#iefix') format('embedded-opentype'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/12/Archive.woff') format('woff'),
+		url('https://ru.quizlanding.de/wp-content/uploads/2021/12/Archive.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
